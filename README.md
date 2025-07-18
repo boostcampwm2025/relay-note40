@@ -27,4 +27,4 @@ AI의 힘을 빌려, 조심스러운 표현을 보완하고 감정을 살펴보�
 
 👇 지금 바로 확인해보세요!
 
-[🚩 **미션 확인하러 가기**](https://github.com/boostcampwm2025/relay-note40/blob/main/week1.md#-week-1-%EB%AF%B8%EC%85%98)
+[🚩 **Week1 미션 확인하러 가기**](https://github.com/boostcampwm2025/relay-note40/blob/main/week1.md#-week-1-%EB%AF%B8%EC%85%98)
