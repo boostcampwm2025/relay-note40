@@ -336,3 +336,20 @@ AI 스쿨메이트 상냥이, 학생들의 든든한 정서 지원군!
 선택 이유:
 
 제가 노래를 좋아합니다. 기분에 따라 선곡해주는 플레이리스트 제가 한번 즐겨 보겠습니다!!
+
+### 수행 과정
+
+1. 재미나이에 Gem 추가하기 버튼을 누릅니다.
+![](https://github.com/user-attachments/assets/7597baa2-2e67-4579-98f1-2ad2652cf61f)
+
+2. 퀘스트였던 프롬프트를 입력하고 생성합니다.
+![](https://github.com/user-attachments/assets/2b921fe0-1448-45c8-9abc-56f851ca2bb9)
+
+3. 추가된 Gem을 확인합니다.
+![](https://github.com/user-attachments/assets/2dbd5c1c-d01c-4c03-910f-e19ba79c8558)
+
+4. 오늘 나의 기분을 입력합니다~
+![](https://github.com/user-attachments/assets/d08b8863-2f15-4042-9a90-3bee7e82f5c6)
+
+5. (궁금증..) 과연 10점 만점의 10점이라 하고 ㅠㅠ 를 붙인다면??
+![](https://github.com/user-attachments/assets/1efd38d7-d1c7-4e2c-8527-7c2d0ae22233)
