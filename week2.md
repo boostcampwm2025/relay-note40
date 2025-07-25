@@ -153,7 +153,8 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
 
 ### 조사 내용
 
-- Quest 1. **🌙 나만의 휴식 처방전 받기**
+<details>
+    <summary><b>Quest 1. 🌙 나만의 휴식 처방전 받기</b></summary>
     
     ### 🙋 왜 이 퀘스트가 필요할까요?
     
@@ -164,8 +165,10 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
     - [**정신적 피로**(Directed Attention Fatigue)는 자연 환경에 노출되거나 휴식 활동을 통해 전환 집중력을 회복할 수 있다는 연구 결과가 있습니다.](https://www.researchgate.net/publication/381411639_Recovery_methods_to_reduce_fatigue_among_athletes_A_systematic_review_and_future_directions?utm_source=chatgpt.com)
     - [**신체적 피로**의 경우, 인터벌 휴식(운동 사이 짧은 휴식)이 지속적인 운동보다 근육 회복에 더 유리하다는 실험 결과도 있습니다.](https://www.nature.com/articles/s41598-025-91193-8?utm_source=chatgpt.com)
     - [또한, 작은 휴식(5분 이내 스트레칭이나 호흡 등)도 근육 피로 및 스트레스 호르몬 수준을 효과적으로 낮추는 것으로 나타났습니다. 동일 맥락에서 마사지나 명상처럼 정신적 회복을 돕는 심리적 전략도 회복에 기여합니다.](https://www.nature.com/articles/s41598-025-91193-8?utm_source=chatgpt.com)
+</details>
     
-- Quest 2. **🛌 휴식 취향 분석기**
+<details>
+    <summary><b>Quest 2. 🛌 휴식 취향 분석기</b></summary>
     
     ### 🙋 왜 이 퀘스트가 필요할까요?
     
@@ -176,8 +179,10 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
     - [**휴식 시간대와 생체 리듬**(아침형/저녁형)이 회복 효과에 영향을 줄 수 있다는 연구가 지속적으로 보고되고 있습니다. 생체 리듬에 맞춘 휴식이 피로 회복에 더 유리합니다.](https://www.mdpi.com/2411-5142/7/1/22?utm_source=chatgpt.com)
     - [또한, 자신이 어떤 방식으로 회복되는지를 **자기 인식**하는 수준이 높은 사람일수록 스트레스 저항력과 회복 속도가 더 높다는 연구가 있습니다.](https://www.mdpi.com/2411-5142/7/1/22?utm_source=chatgpt.com)
     - [마지막으로, 단순한 휴식보다 **자신에게 맞는 활동을 선택하는 휴식**이 기분 안정과 스트레스 감소에 더 효과적이라는 증거가 있습니다.](https://www.researchgate.net/publication/381411639_Recovery_methods_to_reduce_fatigue_among_athletes_A_systematic_review_and_future_directions?utm_source=chatgpt.com)
-    
-- Quest 3. **🧩 오늘의 기분 + 프롬프트 = 나만의 미션 수행 만화 생성**
+</details>
+
+<details>
+    <summary><b>Quest 3. 🧩 오늘의 기분 + 프롬프트 = 나만의 미션 수행 만화 생성</b></summary>
     
     ### 🙋 왜 이 퀘스트가 필요한가요?
     
@@ -193,7 +198,10 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
         - 작은 목표 수행은 긍정적 강화와 연결되어 우울증 증상 개선에 기여 (Bandura, 1997, *Self-efficacy: The exercise of control*).
     3. **시각적 피드백과 자기 인식**
         - 만화나 그림 같은 시각적 표현이 자기 인식을 증진시키고 감정 조절 능력을 향상시킨다는 연구 (Kress & van Leeuwen, 2021, *Reading Images: The Grammar of Visual Design*).
-- Quest 4. **🎧 기분 따라 선곡해주는 AI 라디오**
+</details>
+        
+<details>
+    <summary><b>Quest 4. 🎧 기분 따라 선곡해주는 AI 라디오</b></summary>
     
     ### 🙋 왜 이 퀘스트가 필요한가요?
     
@@ -209,3 +217,4 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
         - 대중음악은 청취자 간 공감과 소속감을 증진 (Tarr et al., 2014, *Music and social bonding*).
     3. **언어적 정서 표현과 회복**
         - 가사에 표현된 감정과 메시지가 정서적 회복과 자기성찰에 기여 (Lonsdale & North, 2011, *Musical taste and emotional responses*).
+</details>
