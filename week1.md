@@ -313,6 +313,25 @@ AI 스쿨메이트 상냥이, 학생들의 든든한 정서 지원군!
 
 아침에 하루를 시작할 때 내 감정을 가볍게 마주하고 소소하고 재미있는 미션을 통해 기분을 전환하거나 유지할 수 있다면 하루 전체의 텐션도 좋아질 것 같다는 생각에 이 퀘스트를 선택했습니다.
 
+### 수행 과정
+
+월
+<img width="1009" height="324" alt="image" src="https://github.com/user-attachments/assets/154fe748-f87d-4cef-a4d6-23511b71a24b" />
+
+화
+<img width="1016" height="305" alt="image" src="https://github.com/user-attachments/assets/7e9a52ed-0425-4b52-bc35-fe0bca8a9970" />
+
+수
+
+<img width="991" height="336" alt="image" src="https://github.com/user-attachments/assets/85e6c1e4-fdeb-46e2-8ed9-1c1ba246f3b5" />
+
+목
+
+<img width="1022" height="343" alt="image" src="https://github.com/user-attachments/assets/04e22533-37b9-4afd-ad07-ced3e62b73d0" />
+
+금
+<img width="998" height="328" alt="image" src="https://github.com/user-attachments/assets/6e9c50d2-f4a3-4795-9ead-842fd1d014d7" />
+
 
 ## J024_김강연
 
