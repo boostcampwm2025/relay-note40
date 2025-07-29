@@ -241,6 +241,12 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
 ### J306 - 기분 따라 선곡해주는 AI 라디오
 평소 음악 디깅을 좋아한다, 사실 가사보단 멜로디에 집중해서 듣는 편인데, 이번 기회에 좋은 가사를 담은 곡도 찾아보고 싶다. ai가 추천해주는 곡 하나 + 내가 추천하는 곡 하나를 합쳐서 슬랙에 공유하려고 한다.
 
+<details>
+    <summary><b>실행결과</b></summary>
+    <img width="1395" height="1395" alt="image" src="https://github.com/user-attachments/assets/f75aa45b-03f8-42b7-ae12-f020dafcabaa" />
+</details>
+
+
 ### J229 - 
 
 ### K031 - 나만의 휴식 처방전 받기
