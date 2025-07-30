@@ -244,6 +244,8 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
 <details>
     <summary><b>실행결과</b></summary>
     <img width="1395" height="1395" alt="image" src="https://github.com/user-attachments/assets/f75aa45b-03f8-42b7-ae12-f020dafcabaa" />
+    <img width="1093" height="1535" alt="image" src="https://github.com/user-attachments/assets/29711795-ca77-4a9a-8e04-fbb1510f5451" />
+    <img width="1536" height="1197" alt="image" src="https://github.com/user-attachments/assets/b0cdc863-45c8-4199-add7-7ca200e25a3c" />
 </details>
 
 
