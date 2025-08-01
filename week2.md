@@ -246,7 +246,9 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
     <img width="1395" height="1395" alt="image" src="https://github.com/user-attachments/assets/f75aa45b-03f8-42b7-ae12-f020dafcabaa" />
     <img width="1093" height="1535" alt="image" src="https://github.com/user-attachments/assets/29711795-ca77-4a9a-8e04-fbb1510f5451" />
     <img width="1536" height="1197" alt="image" src="https://github.com/user-attachments/assets/b0cdc863-45c8-4199-add7-7ca200e25a3c" />
-</details>
+    <img width="2114" height="885" alt="스크린샷 2025-08-01 130303" src="https://github.com/user-attachments/assets/62d77174-47b7-422e-a048-589201d85ca9" />
+<img width="2027" height="590" alt="스크린샷 2025-08-01 130314" src="https://github.com/user-attachments/assets/bc0cdaeb-56cc-45af-a1c7-648c2fb230c2" />
+/details>
 
 
 ### J229 - 기분 따라 선곡해주는 AI 라디오
@@ -256,8 +258,8 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
     <img width="1312" height="1121" alt="스크린샷 2025-08-01 125912" src="https://github.com/user-attachments/assets/fd0184d0-ca80-4dd7-8492-432b739f6b44" />
     <img width="1322" height="1080" alt="스크린샷 2025-08-01 125932" src="https://github.com/user-attachments/assets/b38e87e2-f2ac-4235-891d-1d30975855ab" />
 
-
 </details>
+
 ### K031 - 나만의 휴식 처방전 받기
 요즘 과제를 너무 열심히 하고 커피도 많이 마시다 보니 점점 컨디션이 안좋아 지는 것 같다 내 몸 컨디션을 잘 관리해서 챌린지를
 완수하는데 도움을 받을 수 있는 휴식 처방전을 받아보면 좋을 것 같아 선택하게 됐다.
