@@ -248,7 +248,7 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
     <img width="1536" height="1197" alt="image" src="https://github.com/user-attachments/assets/b0cdc863-45c8-4199-add7-7ca200e25a3c" />
     <img width="2114" height="885" alt="스크린샷 2025-08-01 130303" src="https://github.com/user-attachments/assets/62d77174-47b7-422e-a048-589201d85ca9" />
 <img width="2027" height="590" alt="스크린샷 2025-08-01 130314" src="https://github.com/user-attachments/assets/bc0cdaeb-56cc-45af-a1c7-648c2fb230c2" />
-/details>
+</details>
 
 
 ### J229 - 기분 따라 선곡해주는 AI 라디오
