@@ -272,3 +272,5 @@ AI 휴식 전문의가 되어서 나만의 휴식 처방전을 써줘:
 <img width="925" height="573" alt="image" src="https://github.com/user-attachments/assets/2bbea0f2-e28d-4c3f-9e84-5410b8625902" />
 
 </details>
+
+수행 후기: AI가 미션을 만들어내는 창의력이 대단했다. 생각보다 창의적인 의견도 많이 낼 수 있는 것 같아서 놀랐다. 근데 미션 자체는 상황을 해결하는데 큰 도움이되지는 못했던 것 같다.
